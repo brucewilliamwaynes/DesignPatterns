@@ -1,3 +1,4 @@
+package SingletonPattern;
 import java.io.Serializable;
 
 public class SerializedSingleton implements Serializable{
